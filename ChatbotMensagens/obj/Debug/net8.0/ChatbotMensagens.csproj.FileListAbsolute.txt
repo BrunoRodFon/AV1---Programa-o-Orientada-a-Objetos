@@ -1,0 +1,15 @@
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/bin/Debug/net8.0/ChatbotMensagens
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/bin/Debug/net8.0/ChatbotMensagens.deps.json
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/bin/Debug/net8.0/ChatbotMensagens.runtimeconfig.json
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/bin/Debug/net8.0/ChatbotMensagens.dll
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/bin/Debug/net8.0/ChatbotMensagens.pdb
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.AssemblyInfoInputs.cache
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.AssemblyInfo.cs
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.csproj.CoreCompileInputs.cache
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.sourcelink.json
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.dll
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/refint/ChatbotMensagens.dll
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.pdb
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ChatbotMensagens.genruntimeconfig.cache
+/workspaces/AV1---Programa-o-Orientada-a-Objetos/ChatbotMensagens/obj/Debug/net8.0/ref/ChatbotMensagens.dll
